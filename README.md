@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marekputniorz
-- 👀 I’m interested in programming web applications
-- 🌱 I’m currently learning PHP
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning cybersecurity fundamentals and programming in C
 
 <!---
 marekputniorz/marekputniorz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
