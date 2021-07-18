@@ -1,10 +1,14 @@
+# Hello friend :wave:
+
+
 ![Facebook cover - 1](https://user-images.githubusercontent.com/83577637/126065580-ec98af0f-d4fd-4777-931f-f5082a50f3a1.jpg)
 
 
 
 
-- 👋 Hi, I’m @marekputniorz
-- 👀 I’m interested in webapps
-- 🌱 I’m currently learning Javacript for full stack 
+- 👋 I’m @marekputniorz and I am Student, Coder and Creator from Czech Republic
+- 👀 I’m interested in creating websites and webapps
+- :nerd_face: I’m currently learning Javacript for full stack 
+- :point_down: Checkout my top repositories here
 
 
