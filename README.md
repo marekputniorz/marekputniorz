@@ -1,4 +1,5 @@
-![Facebook cover - 1](https://user-images.githubusercontent.com/83577637/126062694-f284a8ae-5337-42fb-982f-8397dba2187f.png)
+![Facebook cover - 1](https://user-images.githubusercontent.com/83577637/126062779-cff78126-cbeb-4c2e-962f-eb0118617596.png)
+
 
 
 - 👋 Hi, I’m @marekputniorz
