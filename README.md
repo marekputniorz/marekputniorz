@@ -6,9 +6,9 @@
 
 
 
-- 👋 I’m @marekputniorz and I am Student, Coder and Creator from Czech Republic
-- :rocket: I’m interested in creating websites and webapps
-- :nerd_face: I’m currently learning Javacript for full stack 
-- :point_down: Checkout my top repositories here
+- 👋 I’m @marekputniorz and I am Student and IT nerd.
+- :rocket: I’m interested in cybersecurity and computer networks.
+- :nerd_face: I’m currently learning Javacript for backend.
+- :point_down: Checkout my top repositories here.
 
 
