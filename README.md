@@ -1,8 +1,7 @@
 # Hello friend :wave:
 
 
-![Facebook cover - 1](https://user-images.githubusercontent.com/83577637/126065580-ec98af0f-d4fd-4777-931f-f5082a50f3a1.jpg)
-
+![Marek](https://user-images.githubusercontent.com/83577637/144635567-e2799105-2eda-4053-99c1-df4b7b48c3c7.png)
 
 
 
