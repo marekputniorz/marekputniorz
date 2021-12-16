@@ -5,9 +5,9 @@
 
 
 
-- 👋 I’m @marekputniorz and I am Student, Coder and Creator
-- :rocket: I’m interested in programming and computer networks.
-- :nerd_face: I’m currently learning C for my studies.
-- :point_down: Checkout my top repositories here.
+- 👋  I’m @marekputniorz and I am Student, Coder and Creator
+- :rocket:  I’m interested in programming and computer networks.
+- :nerd_face:  I’m currently learning C for my studies.
+- :point_down:  Checkout my top repositories here.
 
 
