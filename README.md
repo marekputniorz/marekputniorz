@@ -1,4 +1,4 @@
-# Hello friend :wave:
+# Hello my automated friend :wave:
 
 
 ![Cover](https://user-images.githubusercontent.com/83577637/211665491-313d7cd9-f1fc-4027-9da4-edfce33cbf13.png)
